@@ -1,2 +1,4 @@
-# GuiPythonSql
-Sistema com interface gráfica com integração de banco de dados
+# Oficina Universitária
+Sistema com interface gráfica para adicionar e remover itens de um banco de dados MySQL (projeto em andamento)
+
+
